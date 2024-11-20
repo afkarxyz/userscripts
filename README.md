@@ -19,3 +19,8 @@ Adds convenient download buttons to Spotify tracks and playlists, allowing users
 Add Free Download button to Blendermarket products.
 
 ![image](https://github.com/user-attachments/assets/412416f8-d755-4a9a-9e27-11e9b873eac9)
+
+## 5. Greasyfork/Sleazyfork User Stats Display
+Displays total number of scripts and installs for users on Greasyfork/Sleazyfork.
+
+![image](https://github.com/user-attachments/assets/36130407-520e-4199-85b9-037fe9de0960)

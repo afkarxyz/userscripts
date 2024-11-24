@@ -29,3 +29,8 @@ Displays total number of scripts and installs for users on Greasyfork/Sleazyfork
 Adds a copy button to Greasyfork/Sleazyfork code pages.
 
 ![image](https://github.com/user-attachments/assets/ac37de62-4497-4a9c-be05-e5b6a078b44b)
+
+## 7. Adobe Fonts Downloader
+Adds a download button to Adobe Fonts.
+
+![image](https://github.com/user-attachments/assets/77628e8a-37fa-4a66-b0e7-cb4e7414efcd)

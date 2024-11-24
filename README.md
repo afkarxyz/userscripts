@@ -21,9 +21,11 @@ Add Free Download button to Blendermarket products.
 ![image](https://github.com/user-attachments/assets/412416f8-d755-4a9a-9e27-11e9b873eac9)
 
 ## 5. Greasyfork/Sleazyfork User Stats Display
-Displays total number of scripts and installs for users on Greasyfork/Sleazyfork.
+Displays total number of scripts, installs, and version numbers for users on Greasyfork/Sleazyfork.
 
 ![image](https://github.com/user-attachments/assets/36130407-520e-4199-85b9-037fe9de0960)
+
+![image](https://github.com/user-attachments/assets/8fd547b7-d3b1-4d57-a55a-bfa46c37e243)
 
 ## 6. Greasyfork/Sleazyfork Code Copier
 Adds a copy button to Greasyfork/Sleazyfork code pages.

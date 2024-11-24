@@ -34,3 +34,8 @@ Adds a copy button to Greasyfork/Sleazyfork code pages.
 Adds a download button to Adobe Fonts.
 
 ![image](https://github.com/user-attachments/assets/77628e8a-37fa-4a66-b0e7-cb4e7414efcd)
+
+## 8. Greasyfork/Sleazyfork Script Icon Display
+Displays the favicon of scripts.
+
+![image](https://github.com/user-attachments/assets/a31e61b5-a249-4dc6-94a0-fe7dc64efe79)

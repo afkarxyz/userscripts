@@ -25,7 +25,7 @@ Displays total number of scripts, installs, and version numbers for users on Gre
 
 ![image](https://github.com/user-attachments/assets/36130407-520e-4199-85b9-037fe9de0960)
 
-![image](https://github.com/user-attachments/assets/8fd547b7-d3b1-4d57-a55a-bfa46c37e243)
+![image](https://github.com/user-attachments/assets/648d553f-3170-4a75-bed3-80b12d36aea3)
 
 ## 6. Greasyfork/Sleazyfork Code Copier
 Adds a copy button to Greasyfork/Sleazyfork code pages.

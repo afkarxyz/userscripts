@@ -5,8 +5,8 @@ Adds download and copy buttons for Font Awesome Pro icons.
 
 ![383974522-bda8872e-a4be-4f99-93be-7a5302041b12](https://github.com/user-attachments/assets/eea72d70-4d42-4451-a131-41238295c7c7)
 
-## 2. Pasted Content Copier
-Add copy functionality to Claude.ai
+## 2. Claude Pasted Content Copier
+Adds copy functionality to pasted content on Claude.ai
 
 ![384143013-c3370767-eaae-4681-ae4f-a35bc8d3460f](https://github.com/user-attachments/assets/34722d99-7a62-43c6-af7b-515b958fa88b)
 

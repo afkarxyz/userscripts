@@ -15,7 +15,7 @@ Adds convenient download buttons to Spotify tracks and playlists, allowing users
 
 ![383978236-8007c0e8-0c86-407f-970b-be43a43e3230](https://github.com/user-attachments/assets/9e97b1a2-a95e-40a5-8404-cb9351e76f0a)
 
-## 4. Free Blendermarket Downloader
+## 4. Blendermarket Downloader
 Add Free Download button to Blendermarket products.
 
 ![image](https://github.com/user-attachments/assets/412416f8-d755-4a9a-9e27-11e9b873eac9)

@@ -41,3 +41,9 @@ Adds a download button to Adobe Fonts.
 Displays the favicon of scripts.
 
 ![image](https://github.com/user-attachments/assets/a31e61b5-a249-4dc6-94a0-fe7dc64efe79)
+
+## 9. GitHub Vercel Deployment Button
+Adds a Vercel Deployment button to GitHub repository pages.
+
+![image](https://github.com/user-attachments/assets/2932c917-8610-432a-9c93-4e9050353916)
+

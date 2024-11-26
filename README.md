@@ -47,3 +47,7 @@ Adds a Vercel Deployment button to GitHub repository pages.
 
 ![image](https://github.com/user-attachments/assets/2932c917-8610-432a-9c93-4e9050353916)
 
+## 10. GitHub Active Sort
+Automatically sorts GitHub stars by most recently active.
+
+![image](https://github.com/user-attachments/assets/4276c98f-c6d1-40e9-8904-3dfdeb432f57)

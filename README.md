@@ -10,7 +10,7 @@ Adds copy functionality to pasted content on Claude.ai
 
 ![384143013-c3370767-eaae-4681-ae4f-a35bc8d3460f](https://github.com/user-attachments/assets/34722d99-7a62-43c6-af7b-515b958fa88b)
 
-## 3. Yank (Spotify Downloader)
+## 3. Spotify Downloader (Yank)
 Adds convenient download buttons to Spotify tracks and playlists, allowing users to download music directly from the web.
 
 ![383978236-8007c0e8-0c86-407f-970b-be43a43e3230](https://github.com/user-attachments/assets/9e97b1a2-a95e-40a5-8404-cb9351e76f0a)

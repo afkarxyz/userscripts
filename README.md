@@ -13,7 +13,7 @@ Adds copy functionality to pasted content on Claude.ai
 ## 3. Spotify Downloader (Yank)
 Adds convenient download buttons to Spotify tracks and playlists, allowing users to download music directly from the web.
 
-![383978236-8007c0e8-0c86-407f-970b-be43a43e3230](https://github.com/user-attachments/assets/9e97b1a2-a95e-40a5-8404-cb9351e76f0a)
+![image](https://github.com/user-attachments/assets/4c1f9423-2b27-4654-a50a-a3e0436e0d29)
 
 ## 4. Blendermarket Downloader
 Add Free Download button to Blendermarket products.
@@ -47,7 +47,7 @@ Adds a Vercel Deployment button to GitHub repository pages.
 
 ![image](https://github.com/user-attachments/assets/2932c917-8610-432a-9c93-4e9050353916)
 
-## 10. GitHub Active Sort
-Automatically sorts GitHub stars by most recently active.
+## 10. GitHub Auto Sort
+Automatically sorts GitHub stars by most recently active and repositories by public.
 
 ![image](https://github.com/user-attachments/assets/4276c98f-c6d1-40e9-8904-3dfdeb432f57)

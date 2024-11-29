@@ -13,7 +13,7 @@ Adds copy functionality to pasted content on Claude.ai
 ## 3. Spotify Downloader (Yank)
 Adds convenient download buttons to Spotify tracks and playlists, allowing users to download music directly from the web.
 
-![image](https://github.com/user-attachments/assets/4c1f9423-2b27-4654-a50a-a3e0436e0d29)
+![image](https://github.com/user-attachments/assets/c5debbeb-6ff6-4a98-96b5-41d16e1dfad4)
 
 ## 4. Blendermarket Downloader
 Add Free Download button to Blendermarket products.

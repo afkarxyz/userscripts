@@ -13,7 +13,7 @@ Adds copy functionality to pasted content on Claude.ai
 ## 3. Spotify Downloader +++
 Adds convenient download buttons to Spotify tracks, allowing users to download music directly from the web.
 
-![image](https://github.com/user-attachments/assets/2df85a6f-66a3-4b61-bef1-983e6e97b2ac)
+![image](https://github.com/user-attachments/assets/30cae43d-f1da-49da-829b-8bf7a848ed2d)
 
 ## 4. Blendermarket Downloader
 Add Free Download button to Blendermarket products.

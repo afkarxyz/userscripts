@@ -13,12 +13,12 @@ Adds copy functionality to pasted content on Claude.ai
 ## 3. Spotify Downloader +++
 Adds convenient download buttons to Spotify tracks, allowing users to download music directly from the web.
 
-![image](https://github.com/user-attachments/assets/4985a6e7-e188-491b-8d1f-a5a07d7571c4)
+![image](https://github.com/user-attachments/assets/2df85a6f-66a3-4b61-bef1-983e6e97b2ac)
 
 ## 4. Blendermarket Downloader
 Add Free Download button to Blendermarket products.
 
-![image](https://github.com/user-attachments/assets/412416f8-d755-4a9a-9e27-11e9b873eac9)
+![image](https://github.com/user-attachments/assets/830bd940-758a-4104-9739-53d24c949de7)
 
 ## 5. Greasyfork/Sleazyfork User Stats Display
 Displays total number of scripts, installs, and version numbers for users on Greasyfork/Sleazyfork.

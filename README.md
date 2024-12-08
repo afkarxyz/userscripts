@@ -51,3 +51,12 @@ Adds a Vercel Deployment button to GitHub repository pages.
 Automatically sorts GitHub stars by most recently active and repositories by public.
 
 ![image](https://github.com/user-attachments/assets/4276c98f-c6d1-40e9-8904-3dfdeb432f57)
+
+## 11. Greasyfork/Sleazyfork Update Checks Display
+Display today's script installations and update checks.
+
+![image](https://github.com/user-attachments/assets/e0ce4f0e-d595-4bf5-9d67-379611b242f1)
+
+- Installs refers to the number of users who installed the script today.
+- Checks refers to the number of users who checked for script updates today.
+- The system uses a 10-minute cache to optimize data loading.

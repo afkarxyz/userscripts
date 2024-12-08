@@ -53,10 +53,9 @@ Automatically sorts GitHub stars by most recently active and repositories by pub
 ![image](https://github.com/user-attachments/assets/4276c98f-c6d1-40e9-8904-3dfdeb432f57)
 
 ## 11. Greasyfork/Sleazyfork Update Checks Display
-Display today's script installations and update checks.
+Display today's script installations, update checks, and feedback.
 
-![image](https://github.com/user-attachments/assets/e0ce4f0e-d595-4bf5-9d67-379611b242f1)
+![image](https://github.com/user-attachments/assets/d9a0f88e-9765-4f7d-bc71-475f97f2e6c3)
 
 - **Installs** refers to the number of users who installed the script today.
 - **Checks** refers to the number of users who checked for script updates today.
-- The system uses a 10-minute cache to optimize data loading.

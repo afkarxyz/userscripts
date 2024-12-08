@@ -57,6 +57,6 @@ Display today's script installations and update checks.
 
 ![image](https://github.com/user-attachments/assets/e0ce4f0e-d595-4bf5-9d67-379611b242f1)
 
-- Installs refers to the number of users who installed the script today.
-- Checks refers to the number of users who checked for script updates today.
+- **Installs** refers to the number of users who installed the script today.
+- **Checks** refers to the number of users who checked for script updates today.
 - The system uses a 10-minute cache to optimize data loading.

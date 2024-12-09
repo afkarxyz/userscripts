@@ -59,3 +59,8 @@ Display today's script installations, update checks, and feedback.
 
 - **Installs** refers to the number of users who installed the script today.
 - **Checks** refers to the number of users who checked for script updates today.
+
+## 12. GitHub Repo File Downloader
+Allows you to download individual files directly from GitHub repository pages.
+
+![image](https://github.com/user-attachments/assets/bfa49e28-97b5-468d-ba62-f91a34cb8a55)

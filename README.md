@@ -64,3 +64,8 @@ Display today's script installations, update checks, and feedback.
 Allows you to download individual files directly from GitHub repository pages.
 
 ![image](https://github.com/user-attachments/assets/bfa49e28-97b5-468d-ba62-f91a34cb8a55)
+
+## 12. GitHub Repo Subfolder Downloader
+Allows you to download subfolders from GitHub repository pages.
+
+![image](https://github.com/user-attachments/assets/62988d9a-0b05-4a20-9feb-c886d06e83e5)

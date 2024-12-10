@@ -73,4 +73,6 @@ Allows you to download subfolders from GitHub repository pages.
 ## 14. GitHub Code Language Icons
 Replaces GitHub's code language icons with Material Design Icons.
 
+#### Thanks to [material-extensions](https://github.com/material-extensions/vscode-material-icon-theme)
+
 ![image](https://github.com/user-attachments/assets/08aa2f3b-50ec-4b9a-a4b9-958c16742fca)

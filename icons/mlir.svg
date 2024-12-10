@@ -1,19 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#1B466C;}
-	.st1{fill:#3775E0;}
-	.st2{fill:#5EA8DB;}
-	.st3{fill:#FFFFFF;}
-</style>
-<g id="Full_Color">
-	<g>
-		<path class="st0" d="M26.4,22L16,28L5.6,22V10L16,4l10.4,6V22z"/>
-		<polygon class="st1" points="16,7.4 11,10.3 13.6,11.8 16,10.4 18.4,11.8 21,10.3 		"/>
-		<polygon class="st2" points="16,24.6 21,21.7 18.4,20.2 16,21.6 13.6,20.2 11,21.7 		"/>
-		<polygon class="st3" points="16,16 8.5,11.7 8.5,20.3 11.2,18.8 11.2,16.1 16,18.8 20.8,16.1 20.8,18.8 23.5,20.3 23.5,11.7 		"/>
-	</g>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <path fill="#1B466C" d="M26.4 22L16 28 5.6 22V10L16 4l10.4 6v12z"/>
+  <path fill="#3775E0" d="M16 7.4L11 10.3l2.6 1.5L16 10.4l2.4 1.4L21 10.3z"/>
+  <path fill="#5EA8DB" d="M16 24.6L21 21.7l-2.6-1.5L16 21.6l-2.4-1.4L11 21.7z"/>
+  <path fill="#FFFFFF" d="M16 16L8.5 11.7v8.6l2.7-1.5v-2.7L16 18.8l4.8-2.7v2.7l2.7 1.5v-8.6z"/>
 </svg>

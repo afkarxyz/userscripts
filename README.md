@@ -69,3 +69,8 @@ Allows you to download individual files directly from GitHub repository pages.
 Allows you to download subfolders from GitHub repository pages.
 
 ![image](https://github.com/user-attachments/assets/62988d9a-0b05-4a20-9feb-c886d06e83e5)
+
+## 14. GitHub Code Language Icons
+Replaces GitHub's code language icons with Material Design Icons.
+
+![image](https://github.com/user-attachments/assets/08aa2f3b-50ec-4b9a-a4b9-958c16742fca)

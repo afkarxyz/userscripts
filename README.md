@@ -1,5 +1,7 @@
 ## [Greasy Fork](https://greasyfork.org/en/users/1376410-afkarxyz)
 
+![Total Installs](https://img.shields.io/badge/dynamic/json?color=%230072C6&label=Total%20Installs&query=$&url=https://forksinstalls.vercel.app/total/greasyfork.org/en/users/1376410-afkarxyz)
+
 ## 1. Font Awesome Pro SVG Downloader & Copier
 Adds download and copy buttons for Font Awesome Pro icons.
 

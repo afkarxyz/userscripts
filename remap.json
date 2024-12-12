@@ -1,0 +1,25 @@
+{
+  "iconRemap": {
+    "cpp": ["c++"],
+    "csharp": ["c#"],
+    "sass": ["scss"],
+    "fsharp": ["f#"],
+    "qsharp": ["q#"],
+    "r": ["rmarkdown"],
+    "document": ["text"],
+    "bazel": ["starlark"],
+    "database": ["plpgsql"],
+    "docker": ["dockerfile"],
+    "shader": ["hlsl", "glsl"],
+    "coffee": ["coffeescript"],
+    "kaitai": ["kaitai struct"],
+    "godot-assets": ["gdscript"],
+    "word": ["rich text format"],
+    "readme": ["restructuredtext"],
+    "jupyter": ["jupyter notebook"],
+    "console": ["batchfile", "shell"],
+    "vim": ["vim script", "vim snippet"],
+    "visualstudio": ["visual basic .net"],
+    "lisp": ["common lisp", "emacs lisp"]
+  }
+}

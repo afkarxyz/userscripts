@@ -103,7 +103,7 @@ Replaces GitHub's code language icons with Material Design Icons.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/520285-github-code-language-icons)
 
-#### Thanks to [material-extensions](https://github.com/material-extensions/vscode-material-icon-theme)
+#### Thanks to [material-extensions](https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/images/fileIcons.png)
 
 ![image](https://github.com/user-attachments/assets/08aa2f3b-50ec-4b9a-a4b9-958c16742fca)
 

@@ -6,7 +6,7 @@
     "fsharp": ["f#"],
     "qsharp": ["q#"],
     "r": ["rmarkdown"],
-    "android": ["smali"],
+    "java": ["smali"],
     "document": ["text"],
     "bazel": ["starlark"],
     "database": ["plpgsql"],

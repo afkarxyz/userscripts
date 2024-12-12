@@ -19,7 +19,7 @@
     "jupyter": ["jupyter notebook"],
     "console": ["batchfile", "shell"],
     "vim": ["vim script", "vim snippet"],
-    "visualstudio": ["visual basic .net"],
-    "lisp": ["common lisp", "emacs lisp"]
+    "lisp": ["common lisp", "emacs lisp"],
+    "visualstudio": ["visual basic .net", "brightscript", "brighterscript"]
   }
 }

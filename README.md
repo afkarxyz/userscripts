@@ -113,5 +113,3 @@ Previews various image formats, including JPG, PNG, GIF, BMP, TIFF, WebP, SVG, a
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/520309-github-image-previewer)
 
 ![image](https://github.com/user-attachments/assets/11dfa85e-f522-42f0-8c5c-e118027fed40)
-
-![image](https://github.com/user-attachments/assets/1b63bdcd-d638-4783-9476-c97131e25458)

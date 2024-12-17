@@ -16,17 +16,5 @@
     "name": "Server 04",
     "color": "#00471d",
     "label": "320kb/s"
-  },
-  {
-    "api": "4",
-    "name": "Server 05",
-    "color": "#003917",
-    "label": "320kb/s"
-  },
-  {
-    "api": "5",
-    "name": "Server 06",
-    "color": "#002a11",
-    "label": "320kb/s"
   }
 ]

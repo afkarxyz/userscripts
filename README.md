@@ -113,3 +113,21 @@ Previews various image formats, including JPG, PNG, GIF, BMP, TIFF, WebP, SVG, a
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/520309-github-image-previewer)
 
 ![image](https://github.com/user-attachments/assets/11dfa85e-f522-42f0-8c5c-e118027fed40)
+
+## 16. GitHub Search Commit Dates
+Add commit dates to GitHub search results using GitHub token.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/521225-github-search-commit-dates)
+
+![image](https://github.com/user-attachments/assets/e71b58fa-fc3b-4056-b8e5-af1ea001a52a)
+
+### How to Obtain a GitHub Token and Apply It
+
+1. Create a **Classic Token** [here](https://github.com/settings/tokens).
+2. Check only the **"repo"** permission.
+   
+![image](https://github.com/user-attachments/assets/521e206b-6d24-4bac-b2ae-089153d19418)
+   
+3. Then, click the **Tampermonkey** icon and select **"Set GitHub Token"**.  
+
+![image](https://github.com/user-attachments/assets/520ef994-e56c-41e1-8741-053a9e0b186f)

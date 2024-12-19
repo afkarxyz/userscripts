@@ -123,7 +123,7 @@ Add commit dates to GitHub search results using GitHub token.
 
 ### How to Obtain a GitHub Token and Apply It
 
-1. Create a **Classic Token** [here](https://github.com/settings/tokens).
+1. Create a **Token (classic)** [here](https://github.com/settings/tokens).
 2. Check only the **"repo"** permission.
    
 ![image](https://github.com/user-attachments/assets/521e206b-6d24-4bac-b2ae-089153d19418)

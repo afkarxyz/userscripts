@@ -1,4 +1,4 @@
-## [Greasy Fork](https://greasyfork.org/en/users/1376410-afkarxyz)
+![image](https://github.com/user-attachments/assets/ad8e8294-0d1c-4e3d-a001-736ce7d3a742)## [Greasy Fork](https://greasyfork.org/en/users/1376410-afkarxyz)
 
 ![Total Installs](https://img.shields.io/badge/dynamic/json?color=%230072C6&label=Total%20Installs&query=$&url=https://forksinstalls.vercel.app/total/greasyfork.org/en/users/1376410-afkarxyz)
 
@@ -119,4 +119,4 @@ Add commit dates to GitHub search results using GitHub token.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/521225-github-search-commit-dates)
 
-![image](https://github.com/user-attachments/assets/e71b58fa-fc3b-4056-b8e5-af1ea001a52a)
+![image](https://github.com/user-attachments/assets/a7337964-d279-491f-b9a6-faa8d6fc0c72)

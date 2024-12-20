@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ad8e8294-0d1c-4e3d-a001-736ce7d3a742)## [Greasy Fork](https://greasyfork.org/en/users/1376410-afkarxyz)
+## [Greasy Fork](https://greasyfork.org/en/users/1376410-afkarxyz)
 
 ![Total Installs](https://img.shields.io/badge/dynamic/json?color=%230072C6&label=Total%20Installs&query=$&url=https://forksinstalls.vercel.app/total/greasyfork.org/en/users/1376410-afkarxyz)
 

@@ -120,3 +120,12 @@ Add commit dates to GitHub search results using GitHub token.
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/521225-github-search-commit-dates)
 
 ![image](https://github.com/user-attachments/assets/a7337964-d279-491f-b9a6-faa8d6fc0c72)
+
+## 17. GitHub IDE Preview for Repositories
+Adds a 'Preview' button to GitHub repositories to open them in github1s.com for quick IDE-style navigation.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/521507-github-ide-preview-for-repositories)
+
+![image](https://github.com/user-attachments/assets/a215941c-f8b2-47ab-8b69-ee5953f5bf4e)
+
+![image](https://github.com/user-attachments/assets/023d93c1-8c96-4759-bd7f-6d398006b003)

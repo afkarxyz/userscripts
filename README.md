@@ -65,7 +65,7 @@ Adds a Vercel Deployment button to GitHub repository pages.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/518890-github-vercel-deployment-button)
 
-![image](https://github.com/user-attachments/assets/2932c917-8610-432a-9c93-4e9050353916)
+![image](https://github.com/user-attachments/assets/238d79d1-cd7b-416f-890a-0e64f0ee2f63)
 
 ## 10. GitHub Auto Sort
 Automatically sorts GitHub stars by most recently active and repositories by public.

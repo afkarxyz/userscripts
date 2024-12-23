@@ -126,7 +126,7 @@ Adds a 'Preview' button to GitHub repositories to open them in github1s.com for 
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/521507-github-ide-preview-for-repositories)
 
-![image](https://github.com/user-attachments/assets/be2411c9-68c6-4d84-b3e6-e4dc0f692abe)
+![image](https://github.com/user-attachments/assets/6767426c-c79f-40e9-9a26-0a8f10b79863)
 
 ![image](https://github.com/user-attachments/assets/023d93c1-8c96-4759-bd7f-6d398006b003)
 

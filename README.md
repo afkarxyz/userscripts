@@ -130,7 +130,7 @@ Adds a 'Preview' button to GitHub repositories to open them in github1s.com for 
 
 ![image](https://github.com/user-attachments/assets/023d93c1-8c96-4759-bd7f-6d398006b003)
 
-## 18. Upload Button for GitHub Subfolders
+## 18. GitHub Upload Button for Subfolders
 Adds an upload button to GitHub repository subfolder pages, enabling direct file uploads into specific folders.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/521510-upload-button-for-github-subfolders)

@@ -24,7 +24,7 @@ Adds convenient download buttons to Spotify tracks, allowing users to download m
 ![image](https://github.com/user-attachments/assets/04e307f3-589d-4643-9543-d54cf9ad0379)
 
 ## 4. Blendermarket Downloader
-Add Free Download button to Blendermarket products.
+Added CGDownload and GFXCamp buttons for downloading paid items from Blendermarket.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/517948-blendermarket-downloader)
 

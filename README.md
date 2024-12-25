@@ -30,6 +30,8 @@ Added CGDownload and GFXCamp buttons for downloading paid items from Blendermark
 
 ![image](https://github.com/user-attachments/assets/937094bb-0226-401d-8f96-83586e8ec2dd)
 
+![image](https://github.com/user-attachments/assets/a07cfdf0-e0a8-4f9a-ae29-244d58aefedf)
+
 ## 5. Greasyfork/Sleazyfork Stats Display
 Displays total number of scripts, installs, and version numbers for users on Greasyfork/Sleazyfork.
 

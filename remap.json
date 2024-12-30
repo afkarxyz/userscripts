@@ -1,6 +1,7 @@
 {
   "iconRemap": {
     "cpp": ["c++"],
+    "vlang": ["v"],
     "csharp": ["c#"],
     "sass": ["scss"],
     "fsharp": ["f#"],

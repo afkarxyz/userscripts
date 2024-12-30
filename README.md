@@ -107,7 +107,9 @@ Replaces GitHub's code language icons with Material Design Icons.
 
 #### Thanks to [material-extensions](https://raw.githubusercontent.com/material-extensions/vscode-material-icon-theme/refs/heads/main/images/fileIcons.png)
 
-![image](https://github.com/user-attachments/assets/08aa2f3b-50ec-4b9a-a4b9-958c16742fca)
+![image](https://github.com/user-attachments/assets/2b43758a-dc6b-41ad-8351-b8a30e0fdb03)
+
+![image](https://github.com/user-attachments/assets/e68400da-c76e-4c6d-98b7-bfb20cdad735)
 
 ## 15. GitHub Image Previewer
 Previews various image formats, including JPG, PNG, GIF, BMP, TIFF, WebP, SVG, and ICO.

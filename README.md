@@ -92,7 +92,7 @@ Adds a copy button to Greasyfork/Sleazyfork code pages.
 # GitHub <img src="https://cdn.simpleicons.org/github/000/fff" alt="Node" align=left width=24>
 
 ## 1. GitHub Code Language Icons
-Replaces GitHub's code language icons with Material Design Icons.
+Replaces GitHub's boring round code language icons with Material Design Icons.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/520285-github-code-language-icons)
 

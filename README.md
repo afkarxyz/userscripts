@@ -36,7 +36,14 @@ Added CGDownload and GFXCamp buttons for downloading paid items from Blendermark
 
 ![image](https://github.com/user-attachments/assets/a07cfdf0-e0a8-4f9a-ae29-244d58aefedf)
 
-## 5. Claude Pasted Content Copier
+## 5. Epidemic Sound Downloader
+Unlocks the Trial banner and enables the download button functionality.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/522322-epidemic-sound-downloader)
+
+![image](https://github.com/user-attachments/assets/b91656a8-21d0-4ab0-b6e8-64f6ac16328d)
+
+## 6. Claude Pasted Content Copier
 Adds copy functionality to pasted content on Claude.ai
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/511406-claude-pasted-content-copier)

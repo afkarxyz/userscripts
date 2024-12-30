@@ -9,6 +9,7 @@
     "r": ["rmarkdown"],
     "android": ["smali"],
     "bazel": ["starlark"],
+    "smarty": ["mustache"],
     "database": ["plpgsql"],
     "docker": ["dockerfile"],
     "shader": ["hlsl", "glsl"],

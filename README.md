@@ -180,4 +180,5 @@ Adds a clickable profile icon to identify personal or organizational accounts.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/
 
-![image](https://github.com/user-attachments/assets/e19cf006-c98b-42cd-8f74-1031940fea04)
+![image](https://github.com/user-attachments/assets/b73094e7-2b5b-4b05-97b5-5a2cf93c7055)
+

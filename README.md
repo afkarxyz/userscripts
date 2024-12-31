@@ -43,7 +43,21 @@ Unlocks the Trial banner and enables the download button functionality.
 
 ![image](https://github.com/user-attachments/assets/b91656a8-21d0-4ab0-b6e8-64f6ac16328d)
 
-## 6. Claude Pasted Content Copier
+## 6. Storyblocks Audio Downloader
+Enables the download button functionality for stock audio.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/522345-storyblocks-audio-downloader)
+
+![image](https://github.com/user-attachments/assets/58c34447-9455-4f87-a017-087b05dededd)
+
+## 7. Uppbeat Downloader
+Enables the download button functionality.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/522346-uppbeat-downloader)
+
+![image](https://github.com/user-attachments/assets/2f970ef5-f5eb-4b18-92f9-cfa305cdd416)
+
+## 8. Claude Pasted Content Copier
 Adds copy functionality to pasted content on Claude.ai
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/511406-claude-pasted-content-copier)

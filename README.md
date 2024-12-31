@@ -178,7 +178,6 @@ Adds a Vercel Deployment button to GitHub repository pages.
 ## 10. GitHub Profile Icon
 Adds a clickable profile icon to identify personal or organizational accounts.
 
-![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/522373-github-profile-icon)
 
 ![image](https://github.com/user-attachments/assets/b73094e7-2b5b-4b05-97b5-5a2cf93c7055)
-

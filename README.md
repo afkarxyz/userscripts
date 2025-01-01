@@ -57,7 +57,14 @@ Enables the download button functionality.
 
 ![image](https://github.com/user-attachments/assets/2f970ef5-f5eb-4b18-92f9-cfa305cdd416)
 
-## 8. Claude Pasted Content Copier
+## 8. Lucida Downloader
+Download music from Spotify, Qobuz, Tidal, Soundcloud, Deezer, Amazon Music and Yandex Music via Lucida. Adds a **draggable floating button** that opens in Lucida for downloading.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/522465-lucida-downloader)
+
+![image](https://github.com/user-attachments/assets/e3ea4ad0-3e47-4b32-b7c9-0add872fc91e)
+
+## 9. Claude Pasted Content Copier
 Adds copy functionality to pasted content on Claude.ai
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/511406-claude-pasted-content-copier)

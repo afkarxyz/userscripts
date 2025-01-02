@@ -62,7 +62,7 @@ Download music from Spotify, Qobuz, Tidal, Soundcloud, Deezer, Amazon Music and 
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/522465-lucida-downloader)
 
-![image](https://github.com/user-attachments/assets/e3ea4ad0-3e47-4b32-b7c9-0add872fc91e)
+![image](https://github.com/user-attachments/assets/dd2ef301-1920-494f-8f58-dd4ae7b39f8c)
 
 ## 9. Claude Pasted Content Copier
 Adds copy functionality to pasted content on Claude.ai

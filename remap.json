@@ -7,6 +7,7 @@
     "fsharp": ["f#"],
     "qsharp": ["q#"],
     "r": ["rmarkdown"],
+    "react_ts": ["tsx"],
     "android": ["smali"],
     "bazel": ["starlark"],
     "smarty": ["mustache"],

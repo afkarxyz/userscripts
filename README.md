@@ -64,7 +64,14 @@ Download music from Spotify, Qobuz, Tidal, Soundcloud, Deezer, Amazon Music and 
 
 ![image](https://github.com/user-attachments/assets/dd2ef301-1920-494f-8f58-dd4ae7b39f8c)
 
-## 9. Claude Pasted Content Copier
+## 9. Twitter Media Downloader
+Download all media images in original quality.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/523157-twitter-media-downloader)
+
+![image](https://github.com/user-attachments/assets/35646e37-28f2-4cbd-abdb-e81674dd5232)
+
+## 10. Claude Pasted Content Copier
 Adds copy functionality to pasted content on Claude.ai
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/511406-claude-pasted-content-copier)

@@ -1,5 +1,6 @@
 {
   "iconRemap": {
+    "c": ["swig"],
     "cpp": ["c++"],
     "vlang": ["v"],
     "csharp": ["c#"],

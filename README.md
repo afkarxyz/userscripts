@@ -79,43 +79,6 @@ Adds copy functionality to pasted content on Claude.ai
 ![384143013-c3370767-eaae-4681-ae4f-a35bc8d3460f](https://github.com/user-attachments/assets/34722d99-7a62-43c6-af7b-515b958fa88b)
 
 
-<h1 align="center">Greasyfork/Sleazyfork</h1>
-
-
-## 1. Greasyfork/Sleazyfork Stats Display
-Displays total number of scripts, installs, and version numbers for users on Greasyfork/Sleazyfork.
-
-![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/518152-greasyfork-sleazyfork-stats-display)
-
-![image](https://github.com/user-attachments/assets/36130407-520e-4199-85b9-037fe9de0960)
-
-![image](https://github.com/user-attachments/assets/648d553f-3170-4a75-bed3-80b12d36aea3)
-
-## 2. Greasyfork/Sleazyfork Update Checks Display
-Display today's script installations, update checks, and feedback.
-
-![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/520111-greasyfork-sleazyfork-update-checks-display)
-
-![image](https://github.com/user-attachments/assets/d9a0f88e-9765-4f7d-bc71-475f97f2e6c3)
-
-- **Installs** refers to the number of users who installed the script today.
-- **Checks** refers to the number of users who checked for script updates today.
-
-## 3. Greasyfork/Sleazyfork Script Icon Display
-Displays the favicon of scripts.
-
-![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/518673-greasyfork-sleazyfork-script-icon-display)
-
-![image](https://github.com/user-attachments/assets/a31e61b5-a249-4dc6-94a0-fe7dc64efe79)
-
-## 4. Greasyfork/Sleazyfork Code Copier
-Adds a copy button to Greasyfork/Sleazyfork code pages.
-
-![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/518206-greasyfork-sleazyfork-code-copier)
-
-![image](https://github.com/user-attachments/assets/ac37de62-4497-4a9c-be05-e5b6a078b44b)
-
-
 <h1 align="center">GitHub</h1>
 
 
@@ -195,3 +158,40 @@ Adds a clickable profile icon to identify personal or organizational accounts.
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/522373-github-profile-icon)
 
 ![image](https://github.com/user-attachments/assets/1948f107-98dc-4d2c-9fd0-1b66e1f76b39)
+
+
+<h1 align="center">Greasyfork/Sleazyfork</h1>
+
+
+## 1. Greasyfork/Sleazyfork Stats Display
+Displays total number of scripts, installs, and version numbers for users on Greasyfork/Sleazyfork.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/518152-greasyfork-sleazyfork-stats-display)
+
+![image](https://github.com/user-attachments/assets/36130407-520e-4199-85b9-037fe9de0960)
+
+![image](https://github.com/user-attachments/assets/648d553f-3170-4a75-bed3-80b12d36aea3)
+
+## 2. Greasyfork/Sleazyfork Update Checks Display
+Display today's script installations, update checks, and feedback.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/520111-greasyfork-sleazyfork-update-checks-display)
+
+![image](https://github.com/user-attachments/assets/d9a0f88e-9765-4f7d-bc71-475f97f2e6c3)
+
+- **Installs** refers to the number of users who installed the script today.
+- **Checks** refers to the number of users who checked for script updates today.
+
+## 3. Greasyfork/Sleazyfork Script Icon Display
+Displays the favicon of scripts.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/518673-greasyfork-sleazyfork-script-icon-display)
+
+![image](https://github.com/user-attachments/assets/a31e61b5-a249-4dc6-94a0-fe7dc64efe79)
+
+## 4. Greasyfork/Sleazyfork Code Copier
+Adds a copy button to Greasyfork/Sleazyfork code pages.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/518206-greasyfork-sleazyfork-code-copier)
+
+![image](https://github.com/user-attachments/assets/ac37de62-4497-4a9c-be05-e5b6a078b44b)

@@ -26,6 +26,6 @@
     "objective-cpp": ["objective-c++"],
     "vim": ["vim script", "vim snippet"],
     "lisp": ["common lisp", "emacs lisp"],
-    "visualstudio": ["visual basic .net", "brightscript", "brighterscript"]
+    "visualstudio": ["visual basic .net", "vbscript", "brightscript", "brighterscript"]
   }
 }

@@ -26,6 +26,7 @@
     "objective-cpp": ["objective-c++"],
     "vim": ["vim script", "vim snippet"],
     "lisp": ["common lisp", "emacs lisp"],
+    "gamemaker": ["yacc", "game maker language"],
     "visualstudio": ["visual basic .net", "vbscript", "brightscript", "brighterscript"]
   }
 }

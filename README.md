@@ -3,9 +3,9 @@
 ![Total Installs](https://img.shields.io/badge/dynamic/json?color=%230072C6&label=Total%20Installs&query=$&url=https://forksinstalls.vercel.app/total/greasyfork.org/en/users/1376410-afkarxyz)
 
 
+<h1 align="center">Miscellaneous</h1>
 
-# Miscellaneous <img src="https://cdn.simpleicons.org/javascript/000/fff" alt="Node" align=left width=24>
-
+ 
 ## 1. Spotify Downloader +++ 
 Adds convenient download buttons to Spotify tracks, allowing users to download music directly from the web.
 
@@ -79,8 +79,8 @@ Adds copy functionality to pasted content on Claude.ai
 ![384143013-c3370767-eaae-4681-ae4f-a35bc8d3460f](https://github.com/user-attachments/assets/34722d99-7a62-43c6-af7b-515b958fa88b)
 
 
+<h1 align="center">Greasyfork/Sleazyfork</h1>
 
-# Greasyfork <img src="https://cdn.simpleicons.org/greasyfork/000/fff" alt="Node" align=left width=24>
 
 ## 1. Greasyfork/Sleazyfork Stats Display
 Displays total number of scripts, installs, and version numbers for users on Greasyfork/Sleazyfork.
@@ -116,8 +116,8 @@ Adds a copy button to Greasyfork/Sleazyfork code pages.
 ![image](https://github.com/user-attachments/assets/ac37de62-4497-4a9c-be05-e5b6a078b44b)
 
 
+<h1 align="center">GitHub</h1>
 
-# GitHub <img src="https://cdn.simpleicons.org/github/000/fff" alt="Node" align=left width=24>
 
 ## 1. GitHub Code Language Icons
 Replaces GitHub's boring round code language icons with Material Design Icons.

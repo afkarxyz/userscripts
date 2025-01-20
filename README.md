@@ -71,8 +71,6 @@ Batch download all media images in original quality.
 
 ![image](https://github.com/user-attachments/assets/808aed49-ec45-4fc7-a048-9ef4d7b3311f)
 
-![image](https://github.com/user-attachments/assets/dd8bfe45-f478-4ead-96de-e55cde4df365)
-
 ## 10. Claude Pasted Content Copier
 Adds copy functionality to pasted content on Claude.ai
 

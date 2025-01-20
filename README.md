@@ -69,7 +69,9 @@ Batch download all media images in original quality.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/523157-twitter-media-downloader)
 
-![image](https://github.com/user-attachments/assets/3e0befea-3653-401f-a3e6-50a63b74a1c3)
+![image](https://github.com/user-attachments/assets/04166772-7743-4be9-9ad4-8a21f7fcd171)
+
+![image](https://github.com/user-attachments/assets/bbfdc60e-ecc0-42df-834c-0b983863a3a0)
 
 ## 10. Claude Pasted Content Copier
 Adds copy functionality to pasted content on Claude.ai

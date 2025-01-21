@@ -4,6 +4,7 @@
     "cpp": ["c++"],
     "vlang": ["v"],
     "csharp": ["c#"],
+    "table": ["csv"],
     "sass": ["scss"],
     "fsharp": ["f#"],
     "qsharp": ["q#"],

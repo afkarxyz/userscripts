@@ -85,6 +85,18 @@ Add a Download button for Google Cloud Text-to-Speech AI.
 
 ![image](https://github.com/user-attachments/assets/e65d4b85-9454-4fd4-90de-6af859edfbce)
 
+## 12. SoundCloud Direct Downloader
+Integrate a download button for SoundCloud tracks and open original cover art.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/524879-soundcloud-direct-downloader)
+
+![image](https://github.com/user-attachments/assets/999b4b58-debd-4c1a-887e-1200bc56ca02)
+
+![image](https://github.com/user-attachments/assets/a5870776-303a-4e95-b053-a6fa5e4de357)
+
+![image](https://github.com/user-attachments/assets/4e9e5f52-9f78-467b-b945-246f1ed7b181)
+
+
 <h1 align="center">GitHub</h1>
 
 

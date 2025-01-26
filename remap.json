@@ -11,7 +11,8 @@
     "r": ["rmarkdown"],
     "react_ts": ["tsx"],
     "android": ["smali"],
-    "bazel": ["starlark"],
+    "python": ["ren'py"],
+    "bazel": ["starlark"],  
     "smarty": ["mustache"],
     "database": ["plpgsql"],
     "docker": ["dockerfile"],
@@ -23,10 +24,10 @@
     "word": ["rich text format"],
     "readme": ["restructuredtext"],
     "jupyter": ["jupyter notebook"],
-    "console": ["batchfile", "shell"],
     "objective-cpp": ["objective-c++"],
     "vim": ["vim script", "vim snippet"],
     "lisp": ["common lisp", "emacs lisp"],
+    "console": ["batchfile", "shell", "awk"],
     "gamemaker": ["yacc", "game maker language"],
     "visualstudio": ["visual basic .net", "vbscript", "brightscript", "brighterscript"]
   }

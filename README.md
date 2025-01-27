@@ -65,7 +65,7 @@ Download music from Spotify, Qobuz, Tidal, Soundcloud, Deezer, Amazon Music and 
 ![image](https://github.com/user-attachments/assets/dd2ef301-1920-494f-8f58-dd4ae7b39f8c)
 
 ## 9. Twitter/X Media Batch Downloader
-Batch download all media images in original quality.
+Batch download all images and videos from a Twitter/X account, including suspended accounts, in original quality.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/523157-twitter-media-downloader)
 

@@ -96,6 +96,13 @@ Integrate a download button for SoundCloud tracks and open original cover art.
 
 ![image](https://github.com/user-attachments/assets/4e9e5f52-9f78-467b-b945-246f1ed7b181)
 
+## 13. DeWatermark.ai Downloader
+Enable full image download and remove PRO label.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/525290-dewatermark-ai-downloader)
+
+![image](https://github.com/user-attachments/assets/4bd46f39-3aae-4647-8506-ac2121372321)
+
 
 <h1 align="center">GitHub</h1>
 

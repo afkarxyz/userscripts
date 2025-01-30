@@ -103,6 +103,13 @@ Enable full image download and remove PRO label.
 
 ![image](https://github.com/user-attachments/assets/4bd46f39-3aae-4647-8506-ac2121372321)
 
+## 14. Remini.ai Downloader
+Download images with watermark.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/525293-remini-ai-downloader)
+
+![image](https://github.com/user-attachments/assets/6d98eb8b-87f2-4413-9905-e06a98050727)
+
 
 <h1 align="center">GitHub</h1>
 

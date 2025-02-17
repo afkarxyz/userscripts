@@ -62,8 +62,7 @@ Download music from Spotify, Qobuz, Tidal, SoundCloud & Amazon Music via Lucida.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/522465-lucida-downloader)
 
-![image](https://github.com/user-attachments/assets/0f2e63d7-6bef-4cbf-86c3-e73f8d58105e)
-
+![image](https://github.com/user-attachments/assets/361514d0-b3a0-43f8-bc2c-9d7a56708b24)
 
 ## 9. Twitter/X Media Batch Downloader
 Batch download all images and videos from a Twitter/X account, including suspended accounts, in original quality.

@@ -58,11 +58,12 @@ Enables the download button functionality.
 ![image](https://github.com/user-attachments/assets/2f970ef5-f5eb-4b18-92f9-cfa305cdd416)
 
 ## 8. Lucida Downloader
-Download music from Spotify, Qobuz, Tidal, Soundcloud, Deezer, Amazon Music and Yandex Music via Lucida. Adds download buttons and floating button.
+Download music from Spotify, Qobuz, Tidal, SoundCloud & Amazon Music via Lucida. Inserts a download button on Spotify and a floating Lucida button in the bottom right corner.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/522465-lucida-downloader)
 
-![image](https://github.com/user-attachments/assets/dd2ef301-1920-494f-8f58-dd4ae7b39f8c)
+![image](https://github.com/user-attachments/assets/0f2e63d7-6bef-4cbf-86c3-e73f8d58105e)
+
 
 ## 9. Twitter/X Media Batch Downloader
 Batch download all images and videos from a Twitter/X account, including suspended accounts, in original quality.

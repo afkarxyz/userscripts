@@ -6,12 +6,12 @@
 <h1 align="center">Miscellaneous</h1>
 
  
-## 1. Spotify Downloader +++ 
+## 1. Spotify Downloader
 Adds convenient download buttons to Spotify tracks, allowing users to download music directly from the web.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/511659-spotify-downloader)
 
-![image](https://github.com/user-attachments/assets/04e307f3-589d-4643-9543-d54cf9ad0379)
+![image](https://github.com/user-attachments/assets/cd0676e3-0978-4c14-8274-589e9c81a204)
 
 ## 2. Font Awesome Pro SVG Downloader & Copier
 Adds download and copy buttons for Font Awesome Pro icons.

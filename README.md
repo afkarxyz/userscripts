@@ -96,6 +96,11 @@ Integrate a download button for SoundCloud tracks and open original cover art.
 
 ![image](https://github.com/user-attachments/assets/4e9e5f52-9f78-467b-b945-246f1ed7b181)
 
+## 13. YouTube Direct Downloader (Cobalt)
+Bypass the download button and provide options to download the video, video dubs, or audio directly from the YouTube page.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/527945-youtube-direct-downloader-cobalt)
+
 
 <h1 align="center">GitHub</h1>
 

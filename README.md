@@ -101,6 +101,8 @@ Bypass the download button and provide options to download the video, video dubs
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/527945-youtube-direct-downloader-cobalt)
 
+![image](https://github.com/user-attachments/assets/43a481d2-075f-4014-bb0f-efd657829523)
+
 
 <h1 align="center">GitHub</h1>
 

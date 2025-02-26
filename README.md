@@ -184,6 +184,13 @@ Adds a clickable profile icon to identify personal or organizational accounts.
 
 ![image](https://github.com/user-attachments/assets/1948f107-98dc-4d2c-9fd0-1b66e1f76b39)
 
+## 11. GitHub Gist Link
+Adds a Gist link to GitHub profile pages.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/528089-github-gist-link)
+
+![image](https://github.com/user-attachments/assets/2745a836-0ace-4c1b-826c-06332a16fa27)
+
 
 <h1 align="center">Greasyfork/Sleazyfork</h1>
 

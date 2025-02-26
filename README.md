@@ -191,6 +191,13 @@ Adds a Gist link to GitHub profile pages.
 
 ![image](https://github.com/user-attachments/assets/2745a836-0ace-4c1b-826c-06332a16fa27)
 
+## 12. GitHub Gist Copier
+Adds copy button to Gist files for easy code copying.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/528091-github-gist-copier)
+
+![image](https://github.com/user-attachments/assets/d8c96203-dbe0-4fe6-8749-589f96152359)
+
 
 <h1 align="center">Greasyfork/Sleazyfork</h1>
 

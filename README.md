@@ -55,7 +55,7 @@ Adds copy functionality to pasted content on Claude.ai
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/511406-claude-pasted-content-copier)
 
-![384143013-c3370767-eaae-4681-ae4f-a35bc8d3460f](https://github.com/user-attachments/assets/34722d99-7a62-43c6-af7b-515b958fa88b)
+![image](https://github.com/user-attachments/assets/7dc46eae-3454-4b0d-8c97-3693b776ea3e)
 
 ## 8. Google Cloud Text-to-Speech AI Downloader
 Add a Download button for Google Cloud Text-to-Speech AI.

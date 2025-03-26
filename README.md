@@ -58,11 +58,11 @@ Adds copy functionality to pasted content on Claude.ai
 ![image](https://github.com/user-attachments/assets/7dc46eae-3454-4b0d-8c97-3693b776ea3e)
 
 ## 8. Google Cloud Text-to-Speech AI Downloader
-Add a Download button for Google Cloud Text-to-Speech AI.
+Add a Download button, language flags, voice gender for Google Cloud Text-to-Speech AI.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/524787-google-cloud-text-to-speech-ai-downloader)
 
-![image](https://github.com/user-attachments/assets/e65d4b85-9454-4fd4-90de-6af859edfbce)
+![image](https://github.com/user-attachments/assets/11150b7a-12c1-4647-acc0-fb8d1316d810)
 
 ## 9. SoundCloud Direct Downloader
 Integrate a download button for SoundCloud tracks and open original cover art.

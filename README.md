@@ -5,14 +5,13 @@
 
 <h1 align="center">Miscellaneous</h1>
 
+## 1. Lucida Downloader
+Download music from Spotify, Qobuz, Tidal, SoundCloud & Amazon Music via Lucida. Inserts a download button on Spotify and a floating Lucida button in the bottom right corner.
+
+![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/522465)
+
+![image](https://github.com/user-attachments/assets/361514d0-b3a0-43f8-bc2c-9d7a56708b24)
  
-## 1. Spotify Downloader
-Adds convenient download buttons to Spotify tracks, allowing users to download music directly from the web.
-
-![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/511659)
-
-![image](https://github.com/user-attachments/assets/538e1015-1543-4964-9ccc-7c7b88a02c74)
-
 ## 2. Font Awesome Pro SVG Downloader & Copier
 Adds download and copy buttons for Font Awesome Pro icons.
 
@@ -34,37 +33,28 @@ Added CGDownload and GFXCamp buttons for downloading paid items from Blendermark
 
 ![image](https://github.com/user-attachments/assets/937094bb-0226-401d-8f96-83586e8ec2dd)
 
-![image](https://github.com/user-attachments/assets/a07cfdf0-e0a8-4f9a-ae29-244d58aefedf)
-
-## 5. Lucida Downloader
-Download music from Spotify, Qobuz, Tidal, SoundCloud & Amazon Music via Lucida. Inserts a download button on Spotify and a floating Lucida button in the bottom right corner.
-
-![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/522465)
-
-![image](https://github.com/user-attachments/assets/361514d0-b3a0-43f8-bc2c-9d7a56708b24)
-
-## 6. Twitter/X Media Batch Downloader
+## 5. Twitter/X Media Batch Downloader
 Batch download all images and videos from a Twitter/X account, including suspended accounts, in original quality.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/523157)
 
 ![image](https://github.com/user-attachments/assets/8aa2eb47-9a8d-4836-9488-0aedf2ebe532)
 
-## 7. Claude Pasted Content Copier
+## 6. Claude Pasted Content Copier
 Adds copy functionality to pasted content on Claude.ai
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/511406)
 
 ![image](https://github.com/user-attachments/assets/7dc46eae-3454-4b0d-8c97-3693b776ea3e)
 
-## 8. Google Cloud Text-to-Speech AI Downloader
+## 7. Google Cloud Text-to-Speech AI Downloader
 Add a Download button, language flags, voice gender for Google Cloud Text-to-Speech AI.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/524787)
 
 ![image](https://github.com/user-attachments/assets/11150b7a-12c1-4647-acc0-fb8d1316d810)
 
-## 9. SoundCloud Direct Downloader
+## 8. SoundCloud Direct Downloader
 Integrate a download button for SoundCloud tracks and open original cover art.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/524879)
@@ -75,7 +65,7 @@ Integrate a download button for SoundCloud tracks and open original cover art.
 
 ![image](https://github.com/user-attachments/assets/4e9e5f52-9f78-467b-b945-246f1ed7b181)
 
-## 10. YouTube Direct Downloader (Cobalt)
+## 9. YouTube Direct Downloader (Cobalt)
 Bypass the download button and provide options to download the video, video dubs, or audio directly from the YouTube page.
 
 ![Installs](https://img.shields.io/badge/dynamic/json?color=%232ea44f&label=Installs&query=$&url=https://forksinstalls.vercel.app/greasyfork.org/en/scripts/527945)

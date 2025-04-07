@@ -15,7 +15,7 @@ Download music from Spotify, Qobuz, Tidal, SoundCloud & Amazon Music via Lucida.
 
 ![image](https://github.com/user-attachments/assets/361514d0-b3a0-43f8-bc2c-9d7a56708b24)
  
-## 2. Font Awesome Pro SVG Downloader & Copier
+## 2. Font Awesome Pro Downloader
 Adds download and copy buttons for Font Awesome Pro icons.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/516246)
@@ -50,7 +50,7 @@ Adds copy functionality to pasted content on Claude.ai
 
 ![image](https://github.com/user-attachments/assets/7dc46eae-3454-4b0d-8c97-3693b776ea3e)
 
-## 7. Google Cloud Text-to-Speech AI Downloader
+## 7. Google Cloud TTS Downloader
 Add a Download button, language flags, voice gender for Google Cloud Text-to-Speech AI.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/524787)
@@ -92,14 +92,14 @@ Replaces GitHub's boring round code language icons with Material Design Icons.
 
 ![image](https://github.com/user-attachments/assets/e68400da-c76e-4c6d-98b7-bfb20cdad735)
 
-## 2. GitHub Repo File Downloader
+## 2. GitHub File Downloader
 Allows you to download individual files directly from GitHub repository pages.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/520209)
 
 ![image](https://github.com/user-attachments/assets/bfa49e28-97b5-468d-ba62-f91a34cb8a55)
 
-## 3. GitHub Repo Subfolder Downloader
+## 3. GitHub Folder Downloader
 Allows you to download subfolders from GitHub repository pages.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/520237)
@@ -113,7 +113,7 @@ Previews various image formats, including JPG, PNG, GIF, BMP, TIFF, WebP, SVG, a
 
 ![image](https://github.com/user-attachments/assets/11dfa85e-f522-42f0-8c5c-e118027fed40)
 
-## 5. GitHub IDE Preview for Repositories
+## 5. GitHub IDE Preview
 Adds a 'Preview' button to GitHub repositories to open them in github1s.com for quick IDE-style navigation.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/521507)
@@ -156,28 +156,28 @@ Displays user's join date/time/age.
        width="500" />
 </p>
 
-## 1. Greasyfork/Sleazyfork Stats Display
+## 1. Greasyfork Stats Display
 Displays total number of scripts, installs, and version numbers for users on Greasyfork/Sleazyfork.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/518152)
 
 ![image](https://github.com/user-attachments/assets/1307390b-a52c-40bf-bd7d-4dbd7d68e44e)
 
-## 2. Greasyfork/Sleazyfork Update Checks Display
+## 2. Greasyfork Update Checks Display
 Display today's script installations and update checks.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/520111)
 
 ![image](https://github.com/user-attachments/assets/3be34f8d-a330-4c94-b059-6e8fbc647cd1)
 
-## 3. Greasyfork/Sleazyfork Script Icon Display
+## 3. Greasyfork Script Icon Display
 Displays the favicon of scripts.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/518673)
 
 ![image](https://github.com/user-attachments/assets/69f8b905-9f44-4e4a-9e55-23806a119dd3)
 
-## 4. Greasyfork/Sleazyfork Code Copier
+## 4. Greasyfork Code Copier
 Adds a copy button for script code.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/518206)

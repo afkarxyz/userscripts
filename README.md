@@ -1,4 +1,4 @@
-## [Greasy Fork](https://greasyfork.org/en/users/1376410-afkarxyz)
+## [Greasy Fork](https://greasyfork.org/en/users/1376410)
 
 ![Total Installs](https://forkstats.afkarxyz.workers.dev/total/greasyfork.org/en/users/1376410)
 

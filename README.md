@@ -3,7 +3,7 @@
 ![Total Installs](https://forkstats.afkarxyz.workers.dev/total/greasyfork.org/en/users/1376410)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afkarxyz/userscripts/refs/heads/main/assets/readme/miscellaneous.svg" 
+  <img src="assets/readme/miscellaneous.svg" 
        alt="Miscellaneous" 
        width="500" />
 </p>
@@ -76,7 +76,7 @@ Bypass the download button and provide options to download the video, video dubs
 ![image](https://github.com/user-attachments/assets/43a481d2-075f-4014-bb0f-efd657829523)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afkarxyz/userscripts/refs/heads/main/assets/readme/github.svg" 
+  <img src="assets/readme/github.svg" 
        alt="GitHub" 
        width="500" />
 </p>
@@ -151,7 +151,7 @@ Displays user's join date/time/age.
 ![image](https://github.com/user-attachments/assets/d4644ad5-4ca4-4021-95d8-a766cd05b0b8)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afkarxyz/userscripts/refs/heads/main/assets/readme/greasyfork.svg" 
+  <img src="assets/readme/greasyfork.svg" 
        alt="Greasyfork" 
        width="500" />
 </p>

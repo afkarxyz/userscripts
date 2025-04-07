@@ -2,7 +2,11 @@
 
 ![Total Installs](https://forkstats.afkarxyz.workers.dev/total/greasyfork.org/en/users/1376410)
 
-<h1 align="center">Miscellaneous</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/afkarxyz/userscripts/refs/heads/main/assets/readme/miscellaneous.svg" 
+       alt="Miscellaneous" 
+       width="500" />
+</p>
 
 ## 1. Lucida Downloader
 Download music from Spotify, Qobuz, Tidal, SoundCloud & Amazon Music via Lucida. Inserts a download button on Spotify and a floating Lucida button in the bottom right corner.
@@ -71,9 +75,11 @@ Bypass the download button and provide options to download the video, video dubs
 
 ![image](https://github.com/user-attachments/assets/43a481d2-075f-4014-bb0f-efd657829523)
 
-
-<h1 align="center">GitHub</h1>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/afkarxyz/userscripts/refs/heads/main/assets/readme/github.svg" 
+       alt="GitHub" 
+       width="500" />
+</p>
 
 ## 1. GitHub Code Language Icons
 Replaces GitHub's boring round code language icons with Material Design Icons.
@@ -144,9 +150,11 @@ Displays user's join date/time/age.
 
 ![image](https://github.com/user-attachments/assets/d4644ad5-4ca4-4021-95d8-a766cd05b0b8)
 
-
-<h1 align="center">Greasyfork/Sleazyfork</h1>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/afkarxyz/userscripts/refs/heads/main/assets/readme/greasyfork.svg" 
+       alt="Greasyfork" 
+       width="500" />
+</p>
 
 ## 1. Greasyfork/Sleazyfork Stats Display
 Displays total number of scripts, installs, and version numbers for users on Greasyfork/Sleazyfork.

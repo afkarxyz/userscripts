@@ -75,6 +75,13 @@ Bypass the download button and provide options to download the video, video dubs
 
 ![image](https://github.com/user-attachments/assets/43a481d2-075f-4014-bb0f-efd657829523)
 
+## 10. Spotify Direct Downloader
+Adds convenient download buttons to Spotify tracks, allowing users to download music directly from the web.
+
+![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/532243)
+
+![image](https://github.com/user-attachments/assets/600a49c2-a106-4dc1-a035-8185a70905b6)
+
 <p align="center">
   <img src="assets/readme/github.svg" 
        alt="GitHub" 

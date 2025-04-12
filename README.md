@@ -69,11 +69,11 @@ Integrate a download button for SoundCloud tracks and open original cover art.
 ![image](https://github.com/user-attachments/assets/4e9e5f52-9f78-467b-b945-246f1ed7b181)
 
 ## 9. YouTube Direct Downloader (Cobalt)
-Bypass the download button and provide options to download the video, video dubs, or audio directly from the YouTube page.
+Add a custom download button and provide options to download the video, video dubs, or audio directly from the YouTube page.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/527945)
 
-![image](https://github.com/user-attachments/assets/43a481d2-075f-4014-bb0f-efd657829523)
+![image](https://github.com/user-attachments/assets/4f6033d5-b1e9-4370-980a-12f552d070d6)
 
 ## 10. Spotify Direct Downloader
 Adds convenient download buttons to Spotify tracks, allowing users to download music directly from the web.

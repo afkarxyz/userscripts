@@ -163,21 +163,21 @@ Displays user's join date/time/age.
        width="500" />
 </p>
 
-## 1. Greasyfork Stats Display
+## 1. Greasyfork Stats
 Displays total number of scripts, installs, and version numbers for users on Greasyfork/Sleazyfork.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/518152)
 
 ![image](https://github.com/user-attachments/assets/1307390b-a52c-40bf-bd7d-4dbd7d68e44e)
 
-## 2. Greasyfork Update Checks Display
+## 2. Greasyfork Update Checks
 Display today's script installations and update checks.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/520111)
 
 ![image](https://github.com/user-attachments/assets/3be34f8d-a330-4c94-b059-6e8fbc647cd1)
 
-## 3. Greasyfork Script Icon Display
+## 3. Greasyfork Script Icon
 Displays the favicon of scripts.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/518673)

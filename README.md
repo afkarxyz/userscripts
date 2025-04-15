@@ -29,8 +29,8 @@ Adds a download button to Adobe Fonts.
 
 ![image](https://github.com/user-attachments/assets/77628e8a-37fa-4a66-b0e7-cb4e7414efcd)
 
-## 4. Blendermarket Downloader
-Added CGDownload and GFXCamp buttons for downloading paid items from Blendermarket.
+## 4. Superhivemarket Downloader
+Added CGDownload and GFXCamp buttons for downloading paid items from Superhivemarket.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/517948)
 

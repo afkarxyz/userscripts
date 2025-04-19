@@ -29,6 +29,6 @@
     "lisp": ["common lisp", "emacs lisp"],
     "console": ["batchfile", "shell", "awk"],
     "gamemaker": ["yacc", "game maker language"],
-    "visualstudio": ["visual basic .net", "vbscript", "brightscript", "brighterscript"]
+    "visualstudio": ["visual basic", "visual basic .net", "vbscript", "brightscript", "brighterscript"]
   }
 }

@@ -9,12 +9,12 @@
 </p>
 
 ## 1. Lucida Downloader
-Download music from Spotify, Qobuz, Tidal, SoundCloud & Amazon Music via Lucida. Inserts a download button on Spotify and a floating Lucida button in the bottom right corner.
+Download music from Spotify, Qobuz, Tidal, SoundCloud & Amazon Music via Lucida.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/522465)
 
-![image](https://github.com/user-attachments/assets/361514d0-b3a0-43f8-bc2c-9d7a56708b24)
- 
+![image](https://github.com/user-attachments/assets/cc00042b-fe19-4bec-acf9-6f89c7ee9b60)
+
 ## 2. Font Awesome Pro Downloader
 Adds download and copy buttons for Font Awesome Pro icons.
 

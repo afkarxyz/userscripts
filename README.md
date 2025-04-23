@@ -196,4 +196,5 @@ Disables dark mode on Greasyfork/Sleazyfork.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/533364)
 
-![image](https://github.com/user-attachments/assets/5614545b-957e-49b3-9b32-81fd99ceacab)
+![image](https://github.com/user-attachments/assets/0ffb2972-e926-477b-9ab6-556e63216e7b)
+

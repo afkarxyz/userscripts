@@ -190,3 +190,10 @@ Adds a copy button for script code.
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/518206)
 
 ![image](https://github.com/user-attachments/assets/63deab02-658b-47dc-8ce8-477d16ec39e7)
+
+## 5. Greasyfork No Dark Mode
+Disables dark mode on Greasyfork/Sleazyfork.
+
+![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/533364)
+
+![image](https://github.com/user-attachments/assets/5614545b-957e-49b3-9b32-81fd99ceacab)

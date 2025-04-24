@@ -13,7 +13,7 @@ Download music from Spotify, Qobuz, Tidal, SoundCloud & Amazon Music via Lucida.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/522465)
 
-![image](https://github.com/user-attachments/assets/cc00042b-fe19-4bec-acf9-6f89c7ee9b60)
+![image](https://github.com/user-attachments/assets/230061fd-f51e-4798-86ba-81dbd8413c71)
 
 ## 2. Font Awesome Pro Downloader
 Adds download and copy buttons for Font Awesome Pro icons.

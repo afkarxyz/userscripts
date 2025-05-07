@@ -157,6 +157,13 @@ Displays user's join date/time/age.
 
 ![image](https://github.com/user-attachments/assets/d4644ad5-4ca4-4021-95d8-a766cd05b0b8)
 
+## 10. GitHub Top Languages
+Display top programming languages on GitHub profiles.
+
+![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/535187)
+
+![image](https://github.com/user-attachments/assets/262d0a7d-ca57-41e5-90c4-3101d153050d)
+
 <p align="center">
   <img src="assets/readme/greasyfork.svg" 
        alt="Greasyfork" 

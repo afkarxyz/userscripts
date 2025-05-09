@@ -162,11 +162,11 @@ Display top programming languages on GitHub profiles.
 
 ![Installs](https://forkstats.afkarxyz.workers.dev/installs/greasyfork.org/en/scripts/535187)
 
-![image](https://github.com/user-attachments/assets/262d0a7d-ca57-41e5-90c4-3101d153050d)
+![image](https://github.com/user-attachments/assets/f55a994c-963c-4412-9736-b344cb2b7d34)
 
 > Organization
 
-![image](https://github.com/user-attachments/assets/9e264a59-c9c4-46fe-8686-13220a2a0cf4)
+![image](https://github.com/user-attachments/assets/73076201-ada1-4e5e-b8b0-06674cbb04ee)
 
 <p align="center">
   <img src="assets/readme/greasyfork.svg" 

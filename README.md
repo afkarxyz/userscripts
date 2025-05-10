@@ -168,6 +168,13 @@ Display top programming languages on GitHub profiles.
 
 ![image](https://github.com/user-attachments/assets/73076201-ada1-4e5e-b8b0-06674cbb04ee)
 
+## 11. GitHub Repo Age
+Displays repository creation date/time/age.
+
+![Installs](http://forkstats.afkarxyz.web.id/installs/535591)
+
+![image](https://github.com/user-attachments/assets/289b60c4-ec4b-4c2d-81b4-f9268e5b4ed6)
+
 <p align="center">
   <img src="assets/readme/greasyfork.svg" 
        alt="Greasyfork" 

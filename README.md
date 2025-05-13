@@ -175,6 +175,13 @@ Displays repository creation date/time/age.
 
 ![image](https://github.com/user-attachments/assets/289b60c4-ec4b-4c2d-81b4-f9268e5b4ed6)
 
+## 12. GitHub Commit File Downloader
+Allows you to download individual files or all files as ZIP directly from commit pages.
+
+![Installs](http://forkstats.afkarxyz.web.id/installs/535850)
+
+![image](https://github.com/user-attachments/assets/f05e7c9b-cba6-4614-bc1a-7319ed550c3c)
+
 <p align="center">
   <img src="assets/readme/greasyfork.svg" 
        alt="Greasyfork" 

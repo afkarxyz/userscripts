@@ -189,6 +189,13 @@ Displays repository size.
 
 ![image](https://github.com/user-attachments/assets/17ef8fea-487e-4f61-9403-bb4f70b1483b)
 
+## 14. GitHub Repositories Shortcut
+Add a 'Repositories' tab shortcut to quickly access a user's repositories.
+
+![Installs](http://forkstats.afkarxyz.web.id/installs/535940)
+
+![image](https://github.com/user-attachments/assets/ea86c5db-26fa-4650-9e38-6468d6f4bd10)
+
 <p align="center">
   <img src="assets/readme/greasyfork.svg" 
        alt="Greasyfork" 

@@ -37,7 +37,7 @@ Added CGDownload and GFXCamp buttons for downloading paid items from Superhivema
 ![image](https://github.com/user-attachments/assets/937094bb-0226-401d-8f96-83586e8ec2dd)
 
 ## 5. Twitter/X Media Batch Downloader
-Batch download all images and videos from a Twitter/X account, including suspended accounts, in original quality.
+Batch download all images and videos from a Twitter/X account, including withheld accounts, in original quality.
 
 ![Installs](http://forkstats.afkarxyz.web.id/installs/523157)
 

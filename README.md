@@ -130,7 +130,7 @@ Adds a 'Preview' button to GitHub repositories to open them in github1s.com for 
 ![image](https://github.com/user-attachments/assets/023d93c1-8c96-4759-bd7f-6d398006b003)
 
 ## 6. GitHub Profile Icon
-Adds a clickable profile icon to identify personal or organizational accounts.
+Add a clickable profile icon to identify personal or organizational accounts.
 
 ![Installs](http://forkstats.afkarxyz.web.id/installs/522373)
 
@@ -144,7 +144,7 @@ Adds a Gist link to GitHub profile pages.
 ![image](https://github.com/user-attachments/assets/2745a836-0ace-4c1b-826c-06332a16fa27)
 
 ## 8. GitHub Gist Copier
-Adds copy button to Gist files for easy code copying.
+Add copy button to Gist files for easy code copying.
 
 ![Installs](http://forkstats.afkarxyz.web.id/installs/528091)
 
@@ -181,6 +181,13 @@ Allows you to download individual files or all files as ZIP directly from commit
 ![Installs](http://forkstats.afkarxyz.web.id/installs/535850)
 
 ![image](https://github.com/user-attachments/assets/f05e7c9b-cba6-4614-bc1a-7319ed550c3c)
+
+## 13. GitHub Repo Size
+Displays repository size.
+
+![Installs](http://forkstats.afkarxyz.web.id/installs/535927)
+
+![image](https://github.com/user-attachments/assets/17ef8fea-487e-4f61-9403-bb4f70b1483b)
 
 <p align="center">
   <img src="assets/readme/greasyfork.svg" 

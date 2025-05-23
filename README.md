@@ -201,7 +201,7 @@ Shows total downloads for releases.
 
 ![Installs](http://forkstats.afkarxyz.web.id/installs/536991)
 
-![image](https://github.com/user-attachments/assets/f62b4311-66d7-42bc-8df4-853c00a17374)
+![image](https://github.com/user-attachments/assets/91892db6-124e-4e34-8219-d714ae031473)
 
 <p align="center">
   <img src="assets/readme/greasyfork.svg" 

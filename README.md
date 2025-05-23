@@ -196,6 +196,13 @@ Add a 'Repositories' tab shortcut to quickly access a user's repositories.
 
 ![image](https://github.com/user-attachments/assets/ea86c5db-26fa-4650-9e38-6468d6f4bd10)
 
+## 15. GitHub Release Downloads
+Shows total downloads for releases.
+
+![Installs](http://forkstats.afkarxyz.web.id/installs/536991)
+
+![image](https://github.com/user-attachments/assets/10e841c2-9262-4b2a-afae-7dc68b89841d)
+
 <p align="center">
   <img src="assets/readme/greasyfork.svg" 
        alt="Greasyfork" 

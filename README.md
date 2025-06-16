@@ -57,12 +57,10 @@ Add a Download button, language flags, voice gender for Google Cloud Text-to-Spe
 
 ![image](https://github.com/user-attachments/assets/0185bd58-f371-4a92-863b-609e860dce60)
 
-## 8. SoundCloud Direct Downloader
-Integrate a download button for SoundCloud tracks and open original cover art.
+## 8. SoundCloud Go+ Downloader
+Integrate a download button for SoundCloud tracks.
 
 ![Installs](http://forkstats.afkarxyz.web.id/installs/524879)
-
-![image](https://github.com/user-attachments/assets/999b4b58-debd-4c1a-887e-1200bc56ca02)
 
 ![image](https://github.com/user-attachments/assets/a5870776-303a-4e95-b053-a6fa5e4de357)
 

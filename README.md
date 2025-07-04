@@ -57,14 +57,12 @@ Add a Download button, language flags, voice gender for Google Cloud Text-to-Spe
 
 ![image](https://github.com/user-attachments/assets/0185bd58-f371-4a92-863b-609e860dce60)
 
-## 8. SoundCloud Go+ Downloader
-Integrate a download button for SoundCloud tracks.
+## 8. Spotify Direct Downloader
+Adds convenient download buttons to Spotify tracks, allowing users to download music directly from the web.
 
-![Installs](http://forkstats.afkarxyz.web.id/installs/524879)
+![Installs](http://forkstats.afkarxyz.web.id/installs/532243)
 
-![image](https://github.com/user-attachments/assets/a5870776-303a-4e95-b053-a6fa5e4de357)
-
-![image](https://github.com/user-attachments/assets/4e9e5f52-9f78-467b-b945-246f1ed7b181)
+![image](https://github.com/user-attachments/assets/600a49c2-a106-4dc1-a035-8185a70905b6)
 
 ## 9. YouTube Direct Downloader
 Add a custom download button and provide options to download the video or audio directly from the YouTube page.
@@ -72,13 +70,6 @@ Add a custom download button and provide options to download the video or audio 
 ![Installs](http://forkstats.afkarxyz.web.id/installs/527945)
 
 ![image](https://github.com/user-attachments/assets/3cba72bd-6e20-4367-86cb-b7222e902967)
-
-## 10. Spotify Direct Downloader
-Adds convenient download buttons to Spotify tracks, allowing users to download music directly from the web.
-
-![Installs](http://forkstats.afkarxyz.web.id/installs/532243)
-
-![image](https://github.com/user-attachments/assets/600a49c2-a106-4dc1-a035-8185a70905b6)
 
 <p align="center">
   <img src="assets/readme/github.svg" 

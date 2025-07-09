@@ -8,63 +8,35 @@
        width="500" />
 </p>
 
-## 1. Lucida Downloader
-Download music from Spotify, Qobuz, Tidal, SoundCloud & Amazon Music via Lucida.
-
-![Installs](http://forkstats.afkarxyz.web.id/installs/522465)
-
-![image](https://github.com/user-attachments/assets/230061fd-f51e-4798-86ba-81dbd8413c71)
-
-## 2. Font Awesome Pro Downloader
+## 1. Font Awesome Pro Downloader
 Adds download and copy buttons for Font Awesome Pro icons.
 
 ![Installs](http://forkstats.afkarxyz.web.id/installs/516246)
 
 ![383974522-bda8872e-a4be-4f99-93be-7a5302041b12](https://github.com/user-attachments/assets/eea72d70-4d42-4451-a131-41238295c7c7)
 
-## 3. Adobe Fonts Downloader
+## 2. Adobe Fonts Downloader
 Adds a download button to Adobe Fonts.
 
 ![Installs](http://forkstats.afkarxyz.web.id/installs/518659)
 
 ![image](https://github.com/user-attachments/assets/77628e8a-37fa-4a66-b0e7-cb4e7414efcd)
 
-## 4. Superhivemarket Downloader
+## 3. Superhivemarket Downloader
 Added CGDownload and GFXCamp buttons for downloading paid items from Superhivemarket.
 
 ![Installs](http://forkstats.afkarxyz.web.id/installs/517948)
 
 ![image](https://github.com/user-attachments/assets/937094bb-0226-401d-8f96-83586e8ec2dd)
 
-## 5. Twitter/X Media Batch Downloader
+## 4. Twitter/X Media Batch Downloader
 Batch download all images and videos from a Twitter/X account, including withheld accounts, in original quality.
 
 ![Installs](http://forkstats.afkarxyz.web.id/installs/523157)
 
 ![image](https://github.com/user-attachments/assets/8aa2eb47-9a8d-4836-9488-0aedf2ebe532)
 
-## 6. Claude Pasted Content Copier
-Adds copy functionality to pasted content on Claude.ai
-
-![Installs](http://forkstats.afkarxyz.web.id/installs/511406)
-
-![image](https://github.com/user-attachments/assets/7dc46eae-3454-4b0d-8c97-3693b776ea3e)
-
-## 7. Google Cloud TTS Downloader
-Add a Download button, language flags, voice gender for Google Cloud Text-to-Speech AI.
-
-![Installs](http://forkstats.afkarxyz.web.id/installs/524787)
-
-![image](https://github.com/user-attachments/assets/0185bd58-f371-4a92-863b-609e860dce60)
-
-## 8. Spotify Direct Downloader
-Adds convenient download buttons to Spotify tracks, allowing users to download music directly from the web.
-
-![Installs](http://forkstats.afkarxyz.web.id/installs/532243)
-
-![image](https://github.com/user-attachments/assets/600a49c2-a106-4dc1-a035-8185a70905b6)
-
-## 9. YouTube Direct Downloader
+## 5. YouTube Direct Downloader
 Add a custom download button and provide options to download the video or audio directly from the YouTube page.
 
 ![Installs](http://forkstats.afkarxyz.web.id/installs/527945)
@@ -178,14 +150,7 @@ Displays repository size.
 
 ![image](https://github.com/user-attachments/assets/17ef8fea-487e-4f61-9403-bb4f70b1483b)
 
-## 14. GitHub Repositories Shortcut
-Add a 'Repositories' tab shortcut to quickly access a user's repositories.
-
-![Installs](http://forkstats.afkarxyz.web.id/installs/535940)
-
-![image](https://github.com/user-attachments/assets/ea86c5db-26fa-4650-9e38-6468d6f4bd10)
-
-## 15. GitHub Release Downloads
+## 14. GitHub Release Downloads
 Shows total downloads for releases.
 
 ![Installs](http://forkstats.afkarxyz.web.id/installs/536991)

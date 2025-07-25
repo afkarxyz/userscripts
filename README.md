@@ -15,28 +15,21 @@ Adds download and copy buttons for Font Awesome Pro icons.
 
 ![383974522-bda8872e-a4be-4f99-93be-7a5302041b12](https://github.com/user-attachments/assets/eea72d70-4d42-4451-a131-41238295c7c7)
 
-## 2. Adobe Fonts Downloader
-Adds a download button to Adobe Fonts.
-
-![Installs](http://forkstats.afkarxyz.fun/installs/518659)
-
-![image](https://github.com/user-attachments/assets/77628e8a-37fa-4a66-b0e7-cb4e7414efcd)
-
-## 3. Superhivemarket Downloader
+## 2. Superhivemarket Downloader
 Added CGDownload and GFXCamp buttons for downloading paid items from Superhivemarket.
 
 ![Installs](http://forkstats.afkarxyz.fun/installs/517948)
 
 ![image](https://github.com/user-attachments/assets/937094bb-0226-401d-8f96-83586e8ec2dd)
 
-## 4. Twitter/X Media Batch Downloader
+## 3. Twitter/X Media Batch Downloader
 Batch download all images and videos from a Twitter/X account, including withheld accounts, in original quality.
 
 ![Installs](http://forkstats.afkarxyz.fun/installs/523157)
 
 ![image](https://github.com/user-attachments/assets/8aa2eb47-9a8d-4836-9488-0aedf2ebe532)
 
-## 5. YouTube Direct Downloader
+## 4. YouTube Direct Downloader
 Add a custom download button and provide options to download the video or audio directly from the YouTube page.
 
 ![Installs](http://forkstats.afkarxyz.fun/installs/527945)

@@ -36,6 +36,13 @@ Add a custom download button and provide options to download the video or audio 
 
 ![image](https://github.com/user-attachments/assets/3cba72bd-6e20-4367-86cb-b7222e902967)
 
+## 5. Adobe Fonts Downloader
+Add a download button to download the font for free.
+
+![Installs](http://forkstats.afkarxyz.fun/installs/544894)
+
+![image](https://github.com/user-attachments/assets/77628e8a-37fa-4a66-b0e7-cb4e7414efcd)
+
 <p align="center">
   <img src="assets/readme/github.svg" 
        alt="GitHub" 

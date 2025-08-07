@@ -2,12 +2,6 @@
 
 ![Total Installs](http://forkstats.afkarxyz.fun/total/1376410)
 
-<p align="center">
-  <img src="assets/readme/miscellaneous.svg" 
-       alt="Miscellaneous" 
-       width="500" />
-</p>
-
 ## 1. Font Awesome Pro Downloader
 Adds download and copy buttons for Font Awesome Pro icons.
 

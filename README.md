@@ -24,11 +24,23 @@ Batch download all images and videos from a Twitter/X account, including withhel
 ![image](https://github.com/user-attachments/assets/8aa2eb47-9a8d-4836-9488-0aedf2ebe532)
 
 ## 4. YouTube Direct Downloader
-Add a custom download button and provide options to download the video or audio directly from the YouTube page.
+Add a custom ‘Download’ button on YouTube that lets users download video or audio directly from the page. Include full support for Shorts and a bulk mode to download all videos from a selected channel.
 
 ![Installs](http://forkstats.afkarxyz.fun/installs/527945)
 
-![image](https://github.com/user-attachments/assets/3cba72bd-6e20-4367-86cb-b7222e902967)
+### Watch Page
+
+![image](https://github.com/user-attachments/assets/54c46cce-af01-4d30-b910-da9109de31e8)
+
+### Bulk Mode (Download entire video channel)
+
+![image](https://github.com/user-attachments/assets/af3ee332-43d5-452a-a90e-ba435bad18ba)
+
+![image](https://github.com/user-attachments/assets/885492ee-ad53-41ac-bdd8-4e4b6530466e)
+
+### Shorts
+
+![image](https://github.com/user-attachments/assets/7e28f9f0-c0b5-4118-b88c-e36175c66733)
 
 ## 5. Adobe Fonts Downloader
 Add a download button to download the font for free.

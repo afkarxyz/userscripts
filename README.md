@@ -32,7 +32,7 @@ Add a custom ‘Download’ button on YouTube that lets users download video or 
 
 ![image](https://github.com/user-attachments/assets/54c46cce-af01-4d30-b910-da9109de31e8)
 
-### Bulk Mode (Download entire video channel)
+### Bulk Mode
 
 ![image](https://github.com/user-attachments/assets/af3ee332-43d5-452a-a90e-ba435bad18ba)
 

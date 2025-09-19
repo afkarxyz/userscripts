@@ -14,14 +14,14 @@ Added CGDownload and GFXCamp buttons for downloading paid items from Superhivema
 
 ![Installs](http://forkstats.afkarxyz.fun/installs/517948)
 
-![image](https://github.com/user-attachments/assets/937094bb-0226-401d-8f96-83586e8ec2dd)
+![image](https://github.com/user-attachments/assets/0f58858b-a2e9-4b04-9f70-62a588ea9b01)
 
 ## 3. Twitter/X Media Batch Downloader
 Batch download all images and videos from a Twitter/X account, including withheld accounts, in original quality.
 
 ![Installs](http://forkstats.afkarxyz.fun/installs/523157)
 
-![image](https://github.com/user-attachments/assets/8aa2eb47-9a8d-4836-9488-0aedf2ebe532)
+![image](https://github.com/user-attachments/assets/fbed60c2-bf03-4d00-81ea-f660c7374bcf)
 
 ## 4. YouTube Direct Downloader
 Add a custom ‘Download’ button on YouTube that lets users download video or audio directly from the page. Include full support for Shorts and a bulk mode to download all videos from a selected channel.
